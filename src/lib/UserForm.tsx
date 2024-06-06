@@ -40,5 +40,6 @@ const UserForm: React.FC = () => {
             <button type="submit" className="btn btn-primary">Create</button>
         </form>
     );
+};
 
-}
+export default UserForm;
